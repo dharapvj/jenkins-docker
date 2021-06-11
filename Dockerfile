@@ -1,5 +1,5 @@
-FROM jenkins/jenkins:lts
-MAINTAINER 4oh4
+FROM jenkins/jenkins:jdk11
+MAINTAINER dharapvj
 
 # Derived from https://github.com/getintodevops/jenkins-withdocker (miiro@getintodevops.com)
 
